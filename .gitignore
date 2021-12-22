@@ -7,3 +7,4 @@ bin/
 .settings
 debug.log
 /test-output/
+/build/
